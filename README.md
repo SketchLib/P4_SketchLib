@@ -10,4 +10,6 @@ General Instruction
 - We used Tofino SDE version 9.1.1
 
 Sketchovsky (NSDI '23) is extension of SketchLib
-- SketchLib only focuses on running a single sketch instance. Sketchovsky runs multiple sketch instances simultaneously. [[Paper link]](https://www.usenix.org/conference/nsdi23/presentation/namkung) [[github link]](https://github.com/sketchovsky).
+- SketchLib only focuses on running a single sketch instance. Sketchovsky runs multiple sketch instances simultaneously.
+- [[Paper link]](https://www.usenix.org/conference/nsdi23/presentation/namkung)
+- [[github link]](https://github.com/sketchovsky)
