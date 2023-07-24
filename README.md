@@ -1,6 +1,6 @@
 # P4_SketchLib
 
-This is github repository for SketchLib published at NSDI '22. You can find paper link [here](https://hnamkung.github.io/assets/pdf/nsdi22-sketchlib.pdf).
+This is github repository for SketchLib published at NSDI '22. You can find paper link [here]([https://hnamkung.github.io/assets/pdf/nsdi22-sketchlib.pdf](https://www.usenix.org/conference/nsdi22/presentation/namkung).
 
 
 General Instruction
@@ -8,3 +8,5 @@ General Instruction
 - You can import the header file and can directly use the function call or you may modify it based on the content of the function call for your needs.
 - We implemented 15 sketches using SketchLib, thus you can refer to these sketch implementations.
 - We used Tofino SDE version 9.1.1
+
+SketchLib only focuses on running a single sketch instance. Sketchovsky (NSDI '23) is extension of SketchLib that runs multiple sketch instances simultaneously.  Paper link is [here](https://www.usenix.org/conference/nsdi23/presentation/namkung)https://www.usenix.org/conference/nsdi23/presentation/namkung and github link is [here](https://github.com/sketchovsky)https://github.com/sketchovsky.
